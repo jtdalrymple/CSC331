@@ -1,0 +1,5 @@
+filledCircle, 112, 112, 200, 200, -256
+filledCircle, 1112, 312, 200, 200, -16777216
+filledCircle, 712, 412, 200, 200, -256
+filledCircle, 500, 800, 200, 200, -65536
+filledCircle, 1580, 700, 200, 200, -65536

@@ -1,0 +1,5 @@
+colors
+
+red : -65536
+black: -16777216
+yellow: -256
